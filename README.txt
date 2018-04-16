@@ -1,0 +1,2 @@
+1-General example: How to run QT Widget with VTK Camera Widget, and coding C++ Value Types/Reference types within same environment;(VIDEO and Source Files)
+2-VTK and VS2013 example;(CMakeLists and Source Files)
